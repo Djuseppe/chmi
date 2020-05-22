@@ -1,0 +1,3 @@
+cau, mohl bys tohle stahovat 1x za den v nahodny cas mezi 9-11 rano
+http://portal.chmi.cz/aktualni-situace/aktualni-stav-pocasi/ceska-republika/stanice/profesionalni-stanice/tabulky/teplota-pudy
+a davat to do influxu?
